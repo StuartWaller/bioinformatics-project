@@ -1,0 +1,7 @@
+- planned on using the SARS coronavirus 3C-like proteinase data, however, the dataset was too small (too few molecules to work with)
+- so, in order to take the project a step further, I used a large dataset (with Acetylcholinesterase being the target protein) from Github
+- then computed the molecular (fingerprint) descriptors for each molecule using PADEL-Descriptor software
+- these fingerprint descriptors differ from the Lipinski descriptors: 
+ - Lipinski descriptors emphasize behavior / traits of each molecule
+ - fingerprint descriptors are simply the unique atomic building blocks of each molecule
+- created X DataFrame of descriptors and Y DataFrame of iC50 values

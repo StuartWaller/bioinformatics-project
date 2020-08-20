@@ -1,0 +1,3 @@
+- collected data from https://www.ebi.ac.uk/chembl/ to build original dataset
+- dataset is comprised of compounds (molecules) that have been biologically tested for their activity towards target organism/protein of interest
+- in this case, our target protein is SARS coronavirus 3C-like proteinase

@@ -1,0 +1,1 @@
+- trained random forest regression model to predict iC50 value of molecule given its molecular (fingerprint) descriptors

@@ -1,0 +1,3 @@
+- use dataset from part 1 and calculate Lipinski descriptors for each molecule in dataset
+- these descriptors predict "druglikeness" of molecule
+- perform in-depth data analyzation to compare the active and inactive molecules
